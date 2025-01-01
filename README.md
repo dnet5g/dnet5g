@@ -1,5 +1,5 @@
 {
-  "Versão": "1.01",
+  "Versão": "1.02",
   "ReleaseNotes": "Nova Atualização Disponivel",{
   "Versão": "1.01",
   "ReleaseNotes": "Nova Atualização Disponivel",
@@ -983,6 +983,6 @@
 
 { "Nome": "VIVO RAIO 1", "FLAG": "vivo", "Carga útil": "[delay_split]BCOPY / [crlf][crlf", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Info": "Proxy" }, { "Nome": "VIVO RAIO 2", "FLAG": "vivo", "Carga útil": "[delay_split][crlf]ACL / HTTP/1.1[crlf]Host:www.whatsapp.com[crlf]Atualização: Atualização[crlf]Conexão: [crlf][crlf]", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Informações": "Proxy" 
 
-    }
+    },
   ]
-},
+}
