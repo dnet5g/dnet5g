@@ -1,29 +1,18 @@
 {
-"Version": "1.1.4",
+"Version": "1.1.5",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
 "CheckUser": "true",
 "BackgroundLink": "https://i.ibb.co/8Y4br0Q/5ec924489a9a6b02b8f78944b8e7a3bb.jpg",
 "LogoLink": "https://uploaddeimagens.com.br/images/004/619/243/full/302346519_411659684402223_6480413198964763220_n-removebg-preview.png",
-"UdpPort": "7100;7200;7400;7500;7600;7700;7800;7900",
+"UdpPort": "7100;7200;7300",
 "EmailFeedback": "",
 "UrlContato": "",
 "UrlTermos": "Atenção, Use a apn ivivo.terra.com e altere os protocolos de sua apn pra ipv4",
 "Servers": [
 {
-"Name": "Servidor Principal 1",
-"TYPE": "premium",
-"FLAG": "br.png",
-"ServerIP": "demar.painelvip6.online",
-"CheckUser": "http://sucu.megah.shop/api_user?url=http://45.140.193.149:5454/checkUser",
-"ServerPort": "22",
-"SSLPort": "443",
-"USER": "",
-"PASS": ""
-},
-{
-"Name": "Servidor Principal 2",
+"Name": "DNET5G",
 "TYPE": "premium",
 "FLAG": "br.png",
 "ServerIP": "demar.painelvip6.online",
