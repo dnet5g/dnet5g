@@ -14,7 +14,7 @@
   ],
   "Servidores": [
     {
-"Nome": "SERVIDOR BR",
+"Nome": "DNET5G",
       "TIPO": "premium",
       "BANDEIRA": "br.png",
       "IP do servidor": "serv4.painelvip6.online",
