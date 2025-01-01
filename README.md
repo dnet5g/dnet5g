@@ -16,7 +16,7 @@
 "TYPE": "premium",
 "FLAG": "br.png",
 "ServerIP": "demar.painelvip6.online",
-"CheckUser": "http://sucu.megah.shop/api_user?url=http://45.140.193.149:5454/checkUser",
+"CheckUser": http://sucu.megah.shop/api_user?url=http://45.140.193.149:5454/checkUser",
 "ServerPort": "22",
 "SSLPort": "443",
 "USER": "",
