@@ -1377,19 +1377,8 @@
 "ProxyIP": "104.18.99.70",
 "ProxyPort": "80",
 "Info": "Proxy"
-},
-{
-"Name": "🟣🔴VIVO e CLARO[10]",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.18.6.80",
-"ProxyPort": "80",
-"Flag":"ic_c.png",
-"Info": "Proxy" 
 
 
-},
-]
+   },
+  ]
 }
