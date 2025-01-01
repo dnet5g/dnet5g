@@ -1,5 +1,5 @@
 {
-"Version": "1.1.13",
+"Version": "1.1.14",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -31,16 +31,6 @@
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "45.140.193.149",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🟣PRE PAGO 2",
-"FLAG": "vivo",
-"Payload": "[ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf] https://1.1.1rotate=portalrecarga.vivo.com.br;1.0.0.5recarga/home/;recarga.claro.com.br/no-credit][crlf]X-Forwarded-For: [rotate=portalrecarga.vivo.com.br/recarga/home/;recarga.claro.com.br/no-credit][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br[lf]#[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]#[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#[delay_split]PUT / Cache-Control: private: 13.33.131.6[crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": ":45.140.193.149",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -82,16 +72,6 @@
 "TlsIP": "",
 "ProxyIP": "api.vivo.com.br",
 "ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "VIVO DNS",
-"FLAG": "vivo",
-"Payload": "ACL 127.0.0.1:80[instant_split]ACL www.veek.com.br HTTP/1.9[crlf][crlf",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "demar.painelvip6.online",
-"ProxyPort": "8080",
 "Info": "Proxy"
 },
 {
