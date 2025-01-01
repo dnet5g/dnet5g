@@ -1,5 +1,5 @@
 {
-"Version": "1.1.15",
+"Version": "1.1.16",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -464,7 +464,6 @@
 "ProxyPort": "80",
 "Info": "proxy"
 },
-
 {
 "Name": "🟣VIVO RAIO",
 "FLAG": "vivo",
