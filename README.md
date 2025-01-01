@@ -1,5 +1,5 @@
 {
-"Version": "1.1.14",
+"Version": "1.1.15",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -492,116 +492,6 @@
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "assine.vivo.com.br",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 1",
-"FLAG": "vivo",
-"Payload": "PATCH wss://demar.painelvip6.online/ HTTP/1.1[crlf] / [crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com;www.icanhazip.com;minha.claro.com.br][split][crlf]PATCH /cdn-cgi/trace/ HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Connection: Upgrade; Keep-Alive[lf]Upgrade: Websocket[crlf]@sshalex2[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "162.159.140.159",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 2",
-"FLAG": "vivo",
-"Payload": "PATCH wss://demar.painelvip6.online/ HTTP/1.1[crlf] / [crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com;www.icanhazip.com;minha.claro.com.br][split][crlf]PATCH /cdn-cgi/trace/ HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Connection: Upgrade; Keep-Alive[lf]Upgrade: Websocket[crlf]@sshalex2[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.19.240.93",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 3",
-"FLAG": "vivo",
-"Payload": "PATCH wss://demar.painelvip6.online/ HTTP/1.1[crlf] / [crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com;www.icanhazip.com;minha.claro.com.br][split][crlf]PATCH /cdn-cgi/trace/ HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Connection: Upgrade; Keep-Alive[lf]Upgrade: Websocket[crlf]@sshalex2[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.18.6.41",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 4",
-"FLAG": "vivo",
-"Payload": "PATCH wss://demar.painelvip6.online/ HTTP/1.1[crlf] / [crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com;www.icanhazip.com;minha.claro.com.br][split][crlf]PATCH /cdn-cgi/trace/ HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Connection: Upgrade; Keep-Alive[lf]Upgrade: Websocket[crlf]@sshalex2[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.18.99.70",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 5",
-"FLAG": "vivo",
-"Payload": "PATCH wss://demar.painelvip6.online/ HTTP/1.1[crlf] / [crlf]Host: [rotate=static.whatsapp.com;m.waze.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com;www.icanhazip.com;minha.claro.com.br][split][crlf]PATCH /cdn-cgi/trace/ HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf] [crlf]PATCH / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Connection: Upgrade; Keep-Alive[lf]Upgrade: Websocket[crlf]@sshalex2[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.16.239.166",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 6",
-"FLAG": "vivo",
-"Payload": "[delay_split]ACL / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf][lf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "204.216.149.228",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 7",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "65.8.178.51",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 8",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firewallfalcon.theroms.573357.xyz[crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "13.227.126.91",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 9",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "99.84.31.80",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 10",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "timpretop.tim.com.br",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🔵Tim FRONT 11",
-"FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: firezfalcon.nxtgen.pp.ua[crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "timpospromo.com.br",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
