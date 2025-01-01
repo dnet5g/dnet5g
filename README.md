@@ -1,7 +1,7 @@
 {
   "Versão": "1.01",
   "ReleaseNotes": "Nova Atualização Disponivel",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=350175",
+  "UrlUpdate":https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
   "Sms": "https:",
   "Feedback por e-mail": "",
   "UrlContato": "https://",
