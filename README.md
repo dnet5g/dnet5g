@@ -981,8 +981,8 @@
             "Informações": "Proxy"
      },
 
-{ "Nome": "VIVO RAIO 1", "FLAG": "vivo", "Carga útil": "[delay_split]BCOPY / [crlf][crlf", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Info": "Proxy" }, { "Nome": "VIVO RAIO 2", "FLAG": "vivo", "Carga útil": "[delay_split][crlf]ACL / HTTP/1.1[crlf]Host:www.whatsapp.com[crlf]Atualização: Atualização[crlf]Conexão: [crlf][crlf]", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Informações": "Proxy" },
+{ "Nome": "VIVO RAIO 1", "FLAG": "vivo", "Carga útil": "[delay_split]BCOPY / [crlf][crlf", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Info": "Proxy" }, { "Nome": "VIVO RAIO 2", "FLAG": "vivo", "Carga útil": "[delay_split][crlf]ACL / HTTP/1.1[crlf]Host:www.whatsapp.com[crlf]Atualização: Atualização[crlf]Conexão: [crlf][crlf]", "SNI": "", "TlsIP": "", "ProxyIP": "::ffff:a498:fffa", "ProxyPort": "8080", "Informações": "Proxy" 
 
     }
   ]
-}
+},
