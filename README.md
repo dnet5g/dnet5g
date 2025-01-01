@@ -1,5 +1,5 @@
 {
-"Version": "1.1.5",
+"Version": "1.1.6",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações adicionadas⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -16,7 +16,7 @@
 "TYPE": "premium",
 "FLAG": "br.png",
 "ServerIP": "demar.painelvip6.online",
-"CheckUser": "http://sucu.megah.shop/api_user?url=http://45.140.193.149:5454/checkUser",
+"CheckUser": "http://45.140.193.149:5000/checkUser",
 "ServerPort": "22",
 "SSLPort": "443",
 "USER": "",
