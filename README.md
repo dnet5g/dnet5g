@@ -1,6 +1,6 @@
 {
 "Version": "1.1.12",
-"ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveisdnet ⚠️",
+"ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
 "CheckUser": "true",
