@@ -346,15 +346,6 @@
     "Info": "Proxy"
 },
 {
-"Name":"🟣VIVO novo proxy",
-"Gerador":"[delay_split] ACL / HTTP/1.1[crlf]Host:[random=vivoproxy.gdmnet.pro][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-"SNI":"108.139.166.21",
-"IPTls":"52.85.213.82",
-"IPProxy":"[app_host]",
-"PortProxy":"8080",
-"Info":"Proxy"
-},
-{
 "Name": "🟣VIVO ROTATE 1",
 "FLAG": "vivo",
 "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
