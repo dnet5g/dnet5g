@@ -1,5 +1,5 @@
 {
-"Version": "1.1.12",
+"Version": "1.1.13",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -82,36 +82,6 @@
 "TlsIP": "",
 "ProxyIP": "api.vivo.com.br",
 "ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🟣VIVO CLOUDFRONT 1",
-"FLAG": "vivo",
-"Payload": "PATCH / HTTP/1.1[crlf]Host: [random=firewallfalcon.0h.573357.xyz;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.17.64.225",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🟣VIVO CLOUDFRONT 2",
-"FLAG": "vivo",
-"Payload": "PATCH / HTTP/1.1[crlf]Host: [random=firewallfalcon.0h.573357.xyz;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "104.26.5.32",
-"ProxyPort": "80",
-"Info": "Proxy"
-},
-{
-"Name": "🟣VIVO CLOUDFRONT 3",
-"FLAG": "vivo",
-"Payload": "PATCH / HTTP/1.1[crlf]Host: [random=firewallfalcon.0h.573357.xyz;firewallfalcon.theroms.573357.xyz;v8.thur.store][crlf]Backend: painelvip[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-"SNI": "",
-"TlsIP": "",
-"ProxyIP": "loja.vivo.com.br",
-"ProxyPort": "443",
 "Info": "Proxy"
 },
 {
@@ -354,17 +324,6 @@
 "ProxyPort":"80",
 "CloudFront":"",
 "tunnelType":"proxy"
-},
-{
-"Name":"🔵🟣VIVO E TIM UNIVERSAL 2",
-"FLAG": "vivo",       
-"Payload":"ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#[delay_split]PATCH http://portal.vivo.com.br/ HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]",
-"Sni":"",
-"Tlsip":"",
-"ProxyIP":"104.19.239.25#104.18.28.182#104.16.51.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#ffff:2d8c:c053",
-"ProxyPort":"80",
-"CloudFront":"",
-"tunnelType":"http"
 },
 {
     "Name": "🟣Fluke payload 1",
