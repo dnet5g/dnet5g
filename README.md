@@ -1,5 +1,5 @@
 {
-"Version": "1.1.15",
+"Version": "1.1.16",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -205,7 +205,7 @@
 "Info": "direct"
 },
 {
-"Name": "Atlas Sec 1•✅(SERV PRINCIPAL 1)",
+"Name": "Atlas Sec 1•Dnet5g 1)",
 "FLAG": "vivo",
 "Payload": "[delay_split]PATCH http://portal.vivo.com.br HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
@@ -215,7 +215,7 @@
 "Info": "Proxy"
 },
 {
-"Name": "Atlas Sec 2•✅(SERV PRINCIPAL 1)",
+"Name": "Atlas Sec 2•✅(Dnet5g 1)",
 "FLAG": "vivo",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: 172.67.202.138[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
@@ -225,7 +225,7 @@
 "Info": "Proxy"
 },
 {
-"Name": "Atlas Sec 3•✅(SERV PRINCIPAL 1)",
+"Name": "Atlas Sec 3•✅(Dnet5g 1)",
 "FLAG": "vivo.png",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
@@ -235,7 +235,7 @@
 "Info": "Proxy"
 },
 {
-"Name": "Atlas Sec 1•✅(SERV PRINCIPAL 2)",
+"Name": "Atlas Sec 1•✅(Dnet5g 2)",
 "FLAG": "vivo",
 "Payload": "[delay_split]PATCH http://portal.vivo.com.br/ HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
@@ -245,7 +245,7 @@
 "Info": "Proxy"
 },
 {
-"Name": "Atlas Sec 2•✅(SERV PRINCIPAL 2)",
+"Name": "Atlas Sec 2•✅(Dnet5g 2)",
 "FLAG": "vivo",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: 172.67.202.138[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
@@ -255,7 +255,7 @@
 "Info": "Proxy"
 },
 {
-"Name": "Atlas Sec 3•✅(SERV PRINCIPAL 2)",
+"Name": "Atlas Sec 3•✅(Dnet5g 2)",
 "FLAG": "vivo.png",
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
