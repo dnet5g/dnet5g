@@ -1,5 +1,5 @@
 {
-"Version": "1.1.10",
+"Version": "1.1.8",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis ⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -16,7 +16,7 @@
 "TYPE": "premium",
 "FLAG": "br.png",
 "ServerIP": "demar.painelvip6.online",
-"CheckUser"",
+"CheckUser":"",
 "ServerPort": "22",
 "SSLPort": "443",
 "USER": "",
