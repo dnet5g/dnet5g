@@ -1,5 +1,5 @@
 {
-"Version": "1.1.17",
+"Version": "1.1.18",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -887,7 +887,7 @@
 },
 {
 "Name": "🔵Tim VALIDO E EXPIRADO 10",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -897,7 +897,7 @@
 },
 {
 "Name": "🔵Tim VALIDO E EXPIRADO 11",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -907,7 +907,7 @@
 },
 {
 "Name": "🔵Tim VALIDO E EXPIRADO 12",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
 "SNI": "",
 "TlsIP": "",
@@ -1008,7 +1008,7 @@
 },
 {
 "Name": "🔵Tim Segurity vip 0 ✅",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1018,7 +1018,7 @@
 },
 {
 "Name": "🔵Tim Segurity vip1 ✅",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1028,7 +1028,7 @@
 },
 {
 "Name": "🔵Tim Segurity vip2 ✅",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1038,7 +1038,7 @@
 },
 {
 "Name": "🔵Tim Segurity vip3 ✅",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1048,7 +1048,7 @@
 },
 {
 "Name": "🔵Tim NOVa 1 ",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.9[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1058,7 +1058,7 @@
 },
 {
 "Name": "🔵Tim NOVa 2",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "[split]ACL / HTTP/1.9[crlf]Host: apptest2.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.9[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
@@ -1068,7 +1068,7 @@
 },
 {
 "Name": "🔵Tim NOVa 3",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "CONNECT /cdn-cgi/trace HTTP/1.1[lf]Host: creatorsupport.deezer.com[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: websocket[lf][lf]",
 "SNI": "",
 "TlsIP": "",
@@ -1078,7 +1078,7 @@
 },
 {
 "Name": "🔵Tim NOVa 4",
-"FLAG": "vivo",
+"FLAG": "tim",
 "Payload": "CONNECT /cdn-cgi/trace HTTP/1.1[lf]Host: creatorsupport.deezer.com[lf][lf][split][lf][lf]PCVPN / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: websocket[lf][lf]",
 "SNI": "",
 "TlsIP": "",
