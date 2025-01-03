@@ -1,5 +1,5 @@
 {
-"Version": "1.1.20",
+"Version": "1.1.21",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -295,7 +295,7 @@
 "Info": "Proxy"
 },
 {
-"Name":"🔵🟣VIVO E TIM UNIVERSAL 1",
+"Name":"🟣VIVO E TIM UNIVERSAL 1",
 "FLAG": "vivo",        
 "Payload":"[delay_split]PATCH http://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[crlf]Host: carrinho-pos-familia.vivo.com.br[crlf][crlf]#POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:demar.painelvip6.online[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]#[delay_split]PATCH http://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[crlf]Host: carrinho-pos-familia.vivo.com.br[crlf][crlf]#OPTIONS- // HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "Sni":"",
