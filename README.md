@@ -1,5 +1,5 @@
 {
-"Version": "1.1.19",
+"Version": "1.1.20",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -914,17 +914,6 @@
 "ProxyIP": "[app_host]",
 "ProxyPort": "80",
 "Info": "Proxy"
-},
-{
-"Name":"🔵Tim VALIDO E EXPIRADO 13",
-"FLAG":"tim",         
-"Payload":"ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]",
-"Sni":"",
-"Tlsip":"",
-"ProxyIP":"104.19.239.25#104.18.28.182#104.16.51.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25",
-"ProxyPort":"80",
-"CloudFront":"",
-"tunnelType":"http"
 },
 {
  "Name": "🔵✅TIM RESURGE 1",
