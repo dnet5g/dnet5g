@@ -1,5 +1,5 @@
 {
-"Version": "1.1.21",
+"Version": "1.1.22",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -303,7 +303,7 @@
 "ProxyIP":"45.140.193.149#104.16.239.166#104.18.33.113#104.17.64.225#104.19.239.25#104.18.28.182#104.16.51.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#carrinho-pos-familia.vivo.com.br#104.18.37.248#vivomusica.vivo.com.br#carrinho-pos-familia.vivo.com.br",
 "ProxyPort":"80",
 "CloudFront":"",
-"tunnelType":"proxy"
+"info":"proxy"
 },
 {
     "Name": "🟣Fluke payload 1",
