@@ -1,5 +1,5 @@
 {
-"Version": "1.1.22",
+"Version": "1.1.23",
 "ReleaseNotes": "⚠️Atualise seu app Novas atualizações disponíveis⚠️",
 "UrlUpdate": "https://raw.githubusercontent.com/dnet5g/dnet5g/refs/heads/main/README.md",
 "Sms": "https://bitbin.it/LjETqKmf/raw/",
@@ -25,7 +25,7 @@
 ],
 "Networks": [
 {
-"Name": "🟣PRE PAGO 1",
+"Name": "🟣PRE PAGO 10",
 "FLAG": "vivo",
 "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
