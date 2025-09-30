@@ -15,8 +15,8 @@
 "Name": "DNET5G",
 "TYPE": "premium",
 "FLAG": "br.png",
-"ServerIP": "demar.painelvip6.online",
-"CheckUser":"http://sucu.megah.shop/api_user?url=http://45.140.193.149:5454/checkUser",
+"ServerIP": "qnax.dnet5g.online",
+"CheckUser":"http://sucu.megah.shop/api_user?url=http://45.140.192.210:5454/checkUser",
 "ServerPort": "22",
 "SSLPort": "443",
 "USER": "",
@@ -30,7 +30,7 @@
 "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -40,7 +40,7 @@
 "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -57,7 +57,7 @@
 {
 "Name": "🟣EASY, PRE PAGO E CONTROLE 2",
 "FLAG": "vivo",
-"Payload": "GET-TOPSPEED / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]@TSTOPSPEED[crlf][crlf]",
+"Payload": "GET-TOPSPEED / HTTP/1.1[crlf]Host: qnax.dnet5g.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]@TSTOPSPEED[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.37.248",
@@ -67,7 +67,7 @@
 {
 "Name": "🟣EASY, PRE PAGO E CONTROLE 3",
 "FLAG": "vivo",
-"Payload": "GET-TOPSPEED / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]@TSTOPSPEED[crlf][crlf]",
+"Payload": "GET-TOPSPEED / HTTP/1.1[crlf]Host: qnax.dnet5g.online[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]@TSTOPSPEED[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "api.vivo.com.br",
@@ -77,10 +77,10 @@
 {
 "Name": "🟣 VIVO PRÉ 10",
 "FLAG": "vivo.png",
-"Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: 45.140.193.149[crlf]Upgrade: websocket[crlf][crlf",
+"Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: 45.140.192.210[crlf]Upgrade: websocket[crlf][crlf",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -90,7 +90,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -100,7 +100,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -110,7 +110,7 @@
 "Payload": "ACL 127.0.0.1:80[instant_split]ACL www.veek.com.br HTTP/1.9[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -120,7 +120,7 @@
 "Payload": "[protocol] \\n\\n/",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -130,7 +130,7 @@
 "Payload": "[split]GET HTTP/1.1[crlf][crlf]Host: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -140,14 +140,14 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com]@p2pmaster[crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
 {
 "Name": "🟣 VIVO CONTROLE",
 "FLAG": "vivo.png",
-"Payload": "[ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: demar.painelvip6.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+"Payload": "[ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: qnax.dnet5g.online[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.26.5.32",
@@ -160,7 +160,7 @@
 "Payload": "HTTP/ 1[lf]Host: ads.google.com;baseline.google.com;chrome.google.com;developer.google.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\\\\\n\\\\\\\\n\\\\\\\\n \\\\\\\\n#GET / HTTP/1.1[crlf]Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Upgrade: Websocket[crlf][crlf]#[delay_split]PATCH http://portal.vivo.com.br HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "direct"
 },
@@ -170,7 +170,7 @@
 "Payload": "HTTP/ 1[lf]Host: ads.google.com;baseline.google.com;chrome.google.com;developer.google.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\\\\\n\\\\\\\\n\\\\\\\\n \\\\\\\\n#GET / HTTP/1.1[crlf]Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Upgrade: Websocket[crlf][crlf]#[delay_split]PATCH http://portal.vivo.com.br HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "direct"
 },
@@ -180,7 +180,7 @@
 "Payload": "HTTP/ 1[lf]Host: ads.google.com;baseline.google.com;chrome.google.com;developer.google.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\\\\\n\\\\\\\\n\\\\\\\\n \\\\\\\\n#GET / HTTP/1.1[crlf]Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Upgrade: Websocket[crlf][crlf]#[delay_split]PATCH http://portal.vivo.com.br HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "direct"
 },
@@ -210,7 +210,7 @@
 "Payload": "[delay_split]PATCH http://portal.vivo.com.br HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
- "ProxyIP": "45.140.193.149",
+ "ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -220,7 +220,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: 172.67.202.138[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "8080",
 "Info": "Proxy"
 },
@@ -230,7 +230,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -240,7 +240,7 @@
 "Payload": "[delay_split]PATCH http://portal.vivo.com.br/ HTTP/1.1[crlf]Host: portal.vivo.com.br[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -250,7 +250,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: 172.67.202.138[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "8080",
 "Info": "Proxy"
 },
@@ -260,7 +260,7 @@
 "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [rotate=104.16.51.111;104.19.239.25;104.16.53.111][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -270,7 +270,7 @@
 "Payload": "PATCH /app18 HTTP/1.1[lf]Host: [rotate=tl.uema.shop;tl2.uema.shop;br1.cdntlbr.shop;br2.cdntlbr.shop;br3.cdntlbr.shop;br4.cdntlbr.shop][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -280,7 +280,7 @@
 "Payload": "ACL / HTTP/1.1 Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41] [protocol][crlf][split]PATCH [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41] HTTP/1.1[crlf]Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]X-Online-Host: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]User-Agent: [ua][crlf]Referer: [rotate=vivo.com.br;waze.com;moovit.com;104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -290,7 +290,7 @@
 "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=vivo.com.br;waze.com;moovit.com][crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -300,7 +300,7 @@
 "Payload":"[delay_split]PATCH http://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[crlf]Host: carrinho-pos-familia.vivo.com.br[crlf][crlf]#POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:demar.painelvip6.online[crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]#[delay_split]PATCH http://carrinho-pos-familia.vivo.com.br/ HTTP/1.1[crlf]Host: carrinho-pos-familia.vivo.com.br[crlf][crlf]#OPTIONS- // HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: app_host[crlf]Upgrade: websocket[crlf][crlf]#ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
 "Sni":"",
 "Tlsip":"",
-"ProxyIP":"45.140.193.149#104.16.239.166#104.18.33.113#104.17.64.225#104.19.239.25#104.18.28.182#104.16.51.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#carrinho-pos-familia.vivo.com.br#104.18.37.248#vivomusica.vivo.com.br#carrinho-pos-familia.vivo.com.br",
+"ProxyIP":"45.140.192.210#104.16.239.166#104.18.33.113#104.17.64.225#104.19.239.25#104.18.28.182#104.16.51.111#104.19.240.25#104.18.29.182#104.16.53.111#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#carrinho-pos-familia.vivo.com.br#104.18.37.248#vivomusica.vivo.com.br#carrinho-pos-familia.vivo.com.br",
 "ProxyPort":"80",
 "CloudFront":"",
 "info":"proxy"
@@ -311,7 +311,7 @@
     "Payload": "POST HTTP/1.1[crlf]Host: www.waze.com[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "45.140.193.149",
+    "ProxyIP": "45.140.192.210",
     "ProxyPort": "80",
     "Info": "Proxy"
 },
@@ -321,7 +321,7 @@
     "Payload": "POST HTTP/1.1[crlf]Host: c.whatsapp.net[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "45.140.193.149",
+    "ProxyIP": "45.140.192.210",
     "ProxyPort": "80",
     "Info": "Proxy"
 },
@@ -331,7 +331,7 @@
     "Payload": "POST HTTP/1.1[crlf]Host: m.waze.com[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "45.140.193.149",
+    "ProxyIP": "45.140.192.210",
     "ProxyPort": "80",
     "Info": "Proxy"
 },
@@ -341,7 +341,7 @@
     "Payload": "POST HTTP/1.1[crlf]Host: c.whatsapp.net[crlf][crlf]",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "45.140.193.149",
+    "ProxyIP": "45.140.192.210",
     "ProxyPort": "80",
     "Info": "Proxy"
 },
@@ -488,7 +488,7 @@
 {
 "Name": "🔵TIM MULT PROXY 1",
 "FLAG": "tim",
-"Payload": "PATCH / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+"Payload": "PATCH / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "141.193.213.10",
@@ -498,7 +498,7 @@
 {
 "Name": "🔵TIM MULT PROXY 2",
 "FLAG": "tim",
-"Payload": "PATCH / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+"Payload": "PATCH / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.19.241.93",
@@ -508,7 +508,7 @@
 {
 "Name": "🔵TIM MULT PROXY 3",
 "FLAG": "tim",
-"Payload": "PATCH / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+"Payload": "PATCH / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "141.193.213.11",
@@ -518,7 +518,7 @@
 {
 "Name": "🔵TIM MULT PROXY 4",
 "FLAG": "tim",
-"Payload": "PATCH / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+"Payload": "PATCH / HTTP/1.1[lf]Host: qnax.dnet5g.online.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "104.18.33.113",
@@ -528,7 +528,7 @@
 {
 "Name": "🔵TIM MULT PROXY 5",
 "FLAG": "tim",
-"Payload": "PATCH / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+"Payload": "PATCH / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "blog.deezer.com",
@@ -611,7 +611,7 @@
 "Payload": "[protocol][crlf] [crlf][crlf]@",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "45.140.193.149",
+"ProxyIP": "45.140.192.210",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -621,7 +621,7 @@
 "Payload": "HTTP/ [crlf][crlf]|[crlf]",
 "SNI": "",
 "TlsIP": "",
-"ProxyIP": "0000:0000:0000:0000:0000:ffff:2d8c:c039",
+"ProxyIP": "0000:0000:0000:0000:0000:ffff:2d8c:c0d2",
 "ProxyPort": "80",
 "Info": "Proxy"
 },
@@ -651,17 +651,17 @@
       "Payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: demar.painelvip6.online[crlf]Connection:l llbj5p h  TW { mvI k:cf^  &QpU 7Gm`Z/V Dy]/",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "45.140.193.149",
+      "ProxyIP": "45.140.192.210",
       "ProxyPort": "80",
       "Info": "Proxy"     
   },
 {
       "Name": "🔵TIM RAIO SERVIDOR PRINCIPAL 2",
       "FLAG": "tim",
-      "Payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host:demar.painelvip6.online[crlf]Connection:l llbj5p h  TW { mvI k:cf^  &QpU 7Gm`Z/V Dy]/",
+      "Payload": "ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host:qnax.dnet5g.online[crlf]Connection:l llbj5p h  TW { mvI k:cf^  &QpU 7Gm`Z/V Dy]/",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "demar.painelvip6.online",
+      "ProxyIP": "qnax.dnet5g.online",
       "ProxyPort": "80",
       "Info": "Proxy"     
   },
@@ -748,7 +748,7 @@
 {
       "Name": "🔵TIM SERVIDOR PRINCIPAL 1",
       "FLAG": "tim", 
-      "Payload": "ACL / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: 129.148.36.227k[lf]   [lf][split][lf]", 
+      "Payload": "ACL / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: 129.148.36.227k[lf]   [lf][split][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.16.51.111",
@@ -758,7 +758,7 @@
 {
       "Name": "🔵TIM SERVIDOR PRINCIPAL 2",
       "FLAG": "tim", 
-      "Payload": "ACL / HTTP/1.1[lf]Host: demar.painelvip6.online[lf]Upgrade: 129.148.36.227k[lf]   [lf][split][lf]", 
+      "Payload": "ACL / HTTP/1.1[lf]Host: qnax.dnet5g.online[lf]Upgrade: 129.148.36.227k[lf]   [lf][split][lf]", 
       "SNI": "", 
       "TlsIP": "", 
       "ProxyIP": "104.16.51.111",
@@ -1018,7 +1018,7 @@
 {
 "Name": "🔵Tim Segurity vip2 ✅",
 "FLAG": "tim",
-"Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: demar.painelvip6.online[crlf]Upgrade: Websocket[crlf][crlf]",
+"Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: qnax.dnet5g.online[crlf]Upgrade: Websocket[crlf][crlf]",
 "SNI": "",
 "TlsIP": "",
 "ProxyIP": "162.159.140.159#172.66.0.157#104.19.241.93#104.18.99.70",
